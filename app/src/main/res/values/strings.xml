@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TriTim Warehouse</string>
+    <string name="app_in_name">TriTim Warehouse</string>
+    <string name="app_name_after">Register App</string>
+    <string name="text_bottom">Войдите в свою учётную запись</string>
+    <string name="btnSignIn">Войти</string>
+    <string name="btnRegister">Зарегистрироваться</string>
+    <string name="hint_register">Введите следующие значения для доступа:</string>
+    <string name="hint_register1">Если работник цеха то - f1</string>
+    <string name="hint_register2">Если работник склада то - b1</string>
+    <string name="hint_register3">Вводить в кавычках</string>
+    <string name="btnAddProduct">Добавить</string>
+    <string name="btnDeleteProduct">Удалить</string>
+</resources>

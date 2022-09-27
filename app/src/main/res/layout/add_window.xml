@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardElevation="20dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="vertical">
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/name1Field"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Название"
+            android:inputType="text"
+            android:text=""
+            android:textColor="@color/design_default_color_primary"
+            android:textColorHint="@color/design_default_color_primary_dark"
+            android:textSize="20sp"
+            app:met_baseColor="#0056d3"
+            app:met_floatingLabel="highlight"
+            app:met_primaryColor="#982360"
+            app:met_singleLineEllipsis="true" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/int1Field"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Количество"
+            android:inputType="number"
+            android:text=""
+            android:textColor="@color/design_default_color_primary"
+            android:textColorHint="@color/design_default_color_primary_dark"
+            android:textSize="20sp"
+            app:met_baseColor="#0056d3"
+            app:met_floatingLabel="highlight"
+            app:met_primaryColor="#982360"
+            app:met_singleLineEllipsis="true" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

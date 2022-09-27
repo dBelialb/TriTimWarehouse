@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518273543497",
+    "project_id": "tritim-warehouse-1c18f",
+    "storage_bucket": "tritim-warehouse-1c18f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518273543497:android:334254f15defd29e323e98",
+        "android_client_info": {
+          "package_name": "com.tritimwarehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518273543497-d936jnpqscossb3mchh2td7r469at8qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw9sjOlrBx-TYiOx2cDiPBmVl3uJVwAXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518273543497-d936jnpqscossb3mchh2td7r469at8qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
